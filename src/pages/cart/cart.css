@@ -1,0 +1,38 @@
+.cart-empty-h{
+    color: #000;
+    font-size: 16px;
+    margin-top: 15px;
+}
+.cart-login-btn{
+   padding: 0.5rem 4rem;
+   border-radius: 4px; 
+}
+.cart-empty-btn{
+    padding: 0.5rem 1.5rem;
+    border-radius: 4px;
+    margin-top: 15px;
+    background: none;
+    color: #395747;
+}
+.cart-empty-btn:hover{
+    background: #395747;
+}
+.cart-title{
+    color: #000;
+    font-size: 18px;
+    font-family: 'Poppins-SemiBold';
+}
+.cart-del{
+    font-size: 22px;
+    cursor: pointer;
+}
+.incre-btn{
+    color: #fff;
+    padding: 3px 10px;
+}
+.cart-counter-in{
+    width: 2rem;
+    height: 2rem;
+    padding: 3px 0px;
+    background: #fff;
+}

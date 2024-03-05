@@ -1,0 +1,73 @@
+.services-bg{
+  background: #f6f6f6;
+  padding: 80px 0px;
+}
+.services-h{
+  font-size: 42px;
+  font-family: 'Poppins-SemiBold';
+}
+.services-card{
+  background: #fff;
+  padding: 15px 22px;
+  border-radius: 6px;
+}
+.service-cimg{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+.services-ch{
+  color: #333;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: 'Poppins-SemiBold';
+}
+.services-cp{
+  color: #333;
+  font-size: 14px;
+  height: 60px;
+  min-height: 60px;
+}
+.services-btn{
+  color: #395747;
+  background: none;
+  border: 1px solid #395747;
+  width: 100%;
+}
+.services-btn:hover{
+  color: #fff;
+  background: #395747;
+}
+@media screen and (max-width: 768px) {
+  .services-bg{
+    padding: 50px 0px;
+  }
+  .services-h{
+    font-size: 26px;
+  }
+}
+.nav-pills{
+  background: #fff;
+  float: right;
+}
+.nav-pills .nav-link{
+    color: #20313B;
+    border-radius: 4px;
+}
+.nav-pills .nav-link.active{
+    background: #395747;
+}
+.custom-prev,
+.custom-next {
+  display: inline-block;
+  margin-top: 25px;
+  cursor: pointer;
+}
+.custom-prev {
+  float: right;
+  margin-right: 10px;
+}
+.custom-next{
+    float: right;
+}

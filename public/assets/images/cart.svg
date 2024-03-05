@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54.826" height="51.396" viewBox="0 0 54.826 51.396">
+    <defs>
+        <style>
+            .cls-1,.cls-3{fill:none;stroke-linecap:round}.cls-1{stroke:#31b1e5;stroke-linejoin:round;stroke-width:2px}.cls-3{stroke:#fff;stroke-width:1.5px}
+        </style>
+    </defs>
+    <g id="Group_5439" transform="translate(1)">
+        <g id="shopping-cart" transform="translate(0 10.585)">
+            <circle id="Ellipse_142" cx="2.135" cy="2.135" r="2.135" class="cls-1" transform="translate(12.825 35.54)"/>
+            <circle id="Ellipse_143" cx="2.135" cy="2.135" r="2.135" class="cls-1" transform="translate(33.326 35.54)"/>
+            <path id="Path_1626" d="M1 1h7.541l5.052 25.243a3.77 3.77 0 0 0 3.77 3.035h18.325a3.77 3.77 0 0 0 3.77-3.035l3.016-15.817H10.426" class="cls-1" transform="translate(-1 -1)"/>
+        </g>
+        <g id="Group_5435" transform="translate(30.763)">
+            <circle id="Ellipse_63" cx="11.531" cy="11.531" r="11.531" fill="#31b1e5"/>
+        </g>
+        <path id="Line_197" d="M0 0L0 8.301" class="cls-3" transform="translate(42.544 7.472)"/>
+        <path id="Line_198" d="M0 0L0 8.301" class="cls-3" transform="rotate(90 17.536 29.159)"/>
+    </g>
+</svg>

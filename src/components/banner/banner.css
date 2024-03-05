@@ -1,0 +1,32 @@
+.banner2-bg{
+    background: #20313B; 
+    padding: 40px 0px;
+}
+.banner{
+    background: #f6f6f6;
+    padding: 80px 0px;
+}
+.banner-w{
+    width: 50%;
+}
+.banner-h{
+    font-size: 50px;
+    font-family: 'Poppins-Bold';
+}
+.banner-p{
+    font-size: 23px;
+}
+@media screen and (max-width: 768px) {
+    .banner{
+        padding: 40px 0px;
+    }
+    .banner-w{
+        width: 100%;
+    }
+    .banner-h{
+        font-size: 26px;
+    }
+    .banner-p{
+        font-size: 16px;
+    }
+}

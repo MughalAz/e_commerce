@@ -1,0 +1,35 @@
+.working-bg{
+    padding: 80px 0px;
+    background: #395747;
+}
+.working-h{
+    color: #fff;
+    font-size: 45px;
+    font-family: 'Poppins-SemiBold';
+}
+.working-img-bg{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: #fff;
+}
+.work-h{
+    color: #fff;
+    font-size: 24px;
+}
+.work-p{
+    color: #d6d6d6;
+    font-size: 14px;
+}
+@media screen and (max-width: 768px) {
+    .working-bg{
+        padding: 50px 0px;
+    }
+    .working-h{
+        font-size: 26px;
+    }
+}

@@ -1,0 +1,37 @@
+.nav-shadow{
+    box-shadow: 0 0 5px 0 #eeeced;
+}
+@media screen and (max-width: 768px) {
+    .show-desktop{
+        display: none !important;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .show-desktop{
+        display: none;
+    }
+}
+@media screen and (min-width: 768px) {
+    .desktop-search{
+        width: 100%;
+        max-width: 350px;
+    }
+}
+.nav-icon{
+    font-size: 22px;
+}
+.cart-counter-bg{
+    position: relative;
+}
+.cart-counter{
+    position: absolute; 
+    left: 18px; 
+    text-align: center; 
+    font-size: 13px; 
+    color: #fff; 
+    bottom: 10px; 
+    width: 18px; 
+    height: 18px; 
+    border-radius: 50%; 
+    background: #395747;
+}

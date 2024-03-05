@@ -1,0 +1,30 @@
+<svg id="Group_5651" data-name="Group 5651" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #31b1e5;
+        stroke-width: 2px;
+      }
+
+      .cls-1 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="small_arrow" data-name="small arrow" transform="translate(13.205 6.616) rotate(90)">
+    <path id="Path_2331" data-name="Path 2331" class="cls-1" d="M4.411,8.821,0,4.411,4.411,0" transform="translate(8.821 0) rotate(90)"/>
+  </g>
+  <g id="Ellipse_233" data-name="Ellipse 233" class="cls-2" transform="translate(0 0)">
+    <circle class="cls-3" cx="11" cy="11" r="11"/>
+    <circle class="cls-4" cx="11" cy="11" r="10"/>
+  </g>
+</svg>

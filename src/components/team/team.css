@@ -1,0 +1,78 @@
+.team-bg{
+    background: #ffe074;
+    height: 330px;
+    margin-bottom: 250px;
+    padding: 80px 0px;
+}
+.team-h{
+    font-size: 45px;
+    font-family: 'Poppins-SemiBold';
+}
+.team-btn{
+    padding: 15px 30px;
+    border-radius: 4px;
+    background: #395747;
+}
+.btn-team{
+    text-align: end;
+}
+.team-cbg{
+    background: #fff;
+    padding: 15px;
+    border-radius: 6px;
+}
+.team-ch{
+    font-size: 16px;
+    font-family: 'Poppins-Medium';
+}
+.team-csp{
+    color: #d6d6d6;
+    font-size: 14px;
+}
+.team-review{
+    font-size: 12px;
+}
+.team-r{
+    font-size: 16px;
+    font-family: 'Poppins-Medium';
+}
+.team-lrbg{
+    background: #f2f2f2;
+    padding: 15px;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+.team-lr{
+    font-size: 14px;
+}
+.team-p{
+    font-size: 12px;
+}
+.team-link{
+    font-size: 13px;
+    font-family: 'Poppins-Medium';
+}
+.team-cbtn{
+    color: #395747;
+    width: 100%;
+    margin-top: 15px;
+    background: none;
+    border: 1px solid #395747;
+    border-radius: 4px;
+}
+.team-cbtn:hover{
+    color: #fff;
+    background: #395747;
+}
+@media screen and (max-width: 768px) {
+    .team-bg{
+        padding: 50px 0px;
+    }
+    .team-h{
+        font-size: 26px;
+    }
+    .btn-team{
+        text-align: left;
+        margin-top: 20px;
+    }
+}

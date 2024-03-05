@@ -1,0 +1,22 @@
+.about-bg{
+    background: #f6f6f6;
+    padding: 30px 0px 80px;
+}
+.about-h{
+    font-size: 45px;
+    font-family: 'Poppins-SemiBold';
+}
+.about-p{
+    font-size: 19px;
+}
+@media screen and (max-width: 768px) {
+    .about-bg{
+        padding: 0px 0px 50px;
+    }
+    .about-h{
+        font-size: 26px;
+    }
+    .about-p{
+        font-size: 14px;
+    }
+}

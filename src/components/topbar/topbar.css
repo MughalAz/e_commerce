@@ -1,0 +1,15 @@
+.top-font{
+    color: #fff;
+    font-size: 14px;
+}
+.top-ul{
+    color: #fff;
+    font-size: 14px;
+    display: flex;
+    list-style: none;
+    margin-bottom: 0px;
+    float: right;
+}
+.top-ul li{
+    padding: 0px 10px;
+}

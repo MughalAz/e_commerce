@@ -1,0 +1,35 @@
+@media screen and (min-width: 767px) {
+    .signup-form{
+        max-width: 35%;
+    }
+    .signup-padding{
+        padding: 20px 0px;
+    }
+}
+.signup{
+    color: #141414;
+    font-size: 20px;
+    font-weight: 600;
+}
+.login-link{
+    color: #acacac;
+    font-size: 17px;
+    font-weight: 600;
+    text-align: center;
+}
+.connect-link{
+    color: #000;
+    font-size: 17px;
+    font-weight: 600;
+}
+.signup-social{
+    color: #395747;
+    border: 2px solid #395747;
+    border-radius: 50%;
+    padding: 8px 12px;
+}
+.signup-social:hover{
+    color: #fff;
+    background: #395747;
+    cursor: pointer;
+}

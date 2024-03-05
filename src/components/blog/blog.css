@@ -1,0 +1,66 @@
+.blog-bg{
+  padding: 80px 0px;
+}
+.blog-h{
+  font-size: 45px;
+  font-family: 'Poppins-SemiBold';
+  margin-bottom: 50px;
+}
+.blog-h1{
+  color: #000;
+  font-size: 20px;
+  font-family: 'Poppins-Medium';
+}
+.blog-h2{
+  font-size: 16px;
+  font-family: 'Poppins-Medium';
+}
+@media screen and (max-width: 768px) {
+  .blog-bg{
+    padding: 50px 0px;
+  }
+  .blog-h{
+    font-size: 26px;
+    margin-bottom: 30px;
+  }
+}
+.client-bg{
+    position: relative;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.client-bg::before{
+    position: absolute;
+    width: 0;
+    height: 0;
+    content: "";
+    border-top: 45px solid #fff;
+    border-right: 70px solid transparent;
+    border-bottom: 0;
+    border-left: 10px solid transparent;
+    bottom: -24px;
+}
+.client-img{
+    z-index: 1;
+    position: absolute;
+    left: 10px;
+    bottom: -85px;
+}
+.custom-prev,
+.custom-next {
+  display: inline-block;
+  margin-top: 25px;
+  cursor: pointer;
+}
+.custom-prev {
+  float: right;
+  margin-right: 10px;
+}
+.custom-next{
+    float: right;
+}
+.client-bg{
+    position: relative;
+    padding: 20px;
+    margin-bottom: 30px;
+}

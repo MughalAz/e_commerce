@@ -1,0 +1,19 @@
+.trust-bg{
+    padding: 70px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    background: #395747;
+}
+.trust-h{
+    color: #fff;
+    font-size: 40px;
+    font-family: 'Poppins-SemiBold';
+}
+@media screen and (max-width: 768px) {
+    .trust-bg{
+        padding: 30px 20px;
+    }
+    .trust-h{
+        font-size: 26px;
+    }
+}
